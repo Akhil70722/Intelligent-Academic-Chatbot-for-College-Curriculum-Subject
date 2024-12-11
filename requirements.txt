@@ -1,0 +1,6 @@
+pypdf
+langchain
+chromadb
+openai
+langchain-community
+sentence-transformers
