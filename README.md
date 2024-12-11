@@ -1,5 +1,5 @@
 # Intelligent-Academic-Chatbot-for-College-Curriculum-Subject
-# Document Analysis and Conversational Agent
+## Document Analysis and Conversational Agent
 
 This project implements a document analysis system using language models and vector-based search. It enables users to upload documents (PDF, DOCX, TXT) and interact with a conversational agent to ask questions based on the content of the documents. The system processes documents, generates embeddings, and provides relevant responses to user queries.
 
@@ -87,10 +87,3 @@ Contributions are welcome! If you'd like to contribute to this project:
 2. Create a new branch.
 3. Make your changes and test them.
 4. Create a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
